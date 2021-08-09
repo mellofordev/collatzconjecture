@@ -1,6 +1,6 @@
 # Collatz Conjecture
 A simple math problem that we can't still solve !
-<p>This repository contains a python based program which return the number of iterations and the producted number as a list for a input value , however this function does not work for value 0 and will result in memory error </p>
+<p>This repository contains a python based program which return the number of iterations and the produced number as a list for a input value , however this function does not work for value 0 and will result in memory error </p>
 
 <h2>A breif explaination of Collatz Conjecture</h2>
 <p>Our question here is Does all the positive integer will eventually reduced to 1 or not? <br>So, here is what Collatz Conjecture (3x+1 conjecture) is 
